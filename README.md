@@ -42,7 +42,7 @@ Deterministic-first financial reconciliation system connecting:
 - **0 false automatic matches**
 - Benchmarked across **104 synthetic cases / 10 controlled scenarios**
 
-[View Repository →](YOUR_RECONPILOT_REPO)
+[View Repository →](https://github.com/Meghna0606/reconpilot)
 
 ---
 
@@ -63,7 +63,7 @@ Features:
 - Retry/backoff handling
 - LLM fallback mechanism
 
-[View Repository →](YOUR_AGENTIC_VERIFIER_REPO)
+[View Repository →](https://github.com/Meghna0606/agentic-fake-news-verifier)
 
 ---
 
